@@ -1,7 +1,9 @@
 <h2>Transforma qualquer projeto para o formato PDF (útil para registro de software no INPI)</h2>
 
 <h2>Pré requisitos</h2>
-instalar o enscript no unix (fácil, basta procurar no google)
+1) Ruby instalado na máquina
+<br />
+2) instalar o enscript no unix (fácil, basta procurar no google)
 
 <h2>Como Usar?</h2>
 
