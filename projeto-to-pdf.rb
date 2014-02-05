@@ -3,8 +3,8 @@
 
   require 'find'
   require 'fileutils'
-  diretorio_do_projeto = "/home/sc/Dropbox/workspace/seucondominio"
-  diretorio_destino_do_clone_pdf = "/home/sc/Downloads/pdf-seucondominio"
+  diretorio_do_projeto = "/home/sc/Dropbox/workspace/alunos"
+  diretorio_destino_do_clone_pdf = "/home/sc/Downloads/pdf-alunos"
 
 
 
