@@ -1,4 +1,4 @@
-<h2>Transforma qualquer projeto em PDF para registro no INPI</h2>
+<h2>Transforma qualquer projeto para o formato PDF (útil para registro de software no INPI)</h2>
 
 <h2>Pré requisitos</h2>
 instalar o enscript no unix (fácil, basta procurar no google)
