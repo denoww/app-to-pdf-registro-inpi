@@ -4,7 +4,7 @@ app-to-pdf-registro-inpi
 Transforma qualquer projeto em PDF para registro no INPI
 
 Pré requisitos
-instalar o enscript no ubuntu (fácil se procurar no google)
+instalar o enscript no unix (fácil, basta procurar no google)
 
 Como Usar?
 Configurar essas duas variáveis no arquivo "projeto-to-pdf.rb"
