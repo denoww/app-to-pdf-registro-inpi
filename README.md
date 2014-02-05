@@ -8,7 +8,7 @@
 <h2>Como Usar?</h2>
 
 <h3>Baixe os arquivos:</h3>
-git clone https://github.com/denoww/app-to-pdf-registro-inpi.git
+git clone https://github.com/denoww/app-to-pdf-registro-inpi
 
 
 <h3>Dentro do arquivo "projeto-to-pdf.rb" configure essas duas variáveis</h3>
