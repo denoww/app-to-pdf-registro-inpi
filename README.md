@@ -3,7 +3,7 @@
 <h2>Pré requisitos</h2>
 1) Ruby instalado na máquina
 <br />
-2) instalar o enscript no unix (fácil, basta procurar no google)
+2) Instalar o enscript na máquina (fácil, basta procurar no google)
 
 <h2>Como Usar?</h2>
 
@@ -19,7 +19,7 @@ git clone https://github.com/denoww/app-to-pdf-registro-inpi
   diretorio_destino_do_clone_pdf = "/home/sc/Downloads/pdf-alunos"
 </div>
 
-<h3>Depois no terminal unix executar o comando</h3>
+<h3>Depois executar o arquivo com o comando</h3>
 ruby projeto-to-pdf.rb
 
 <h2>
