@@ -3,13 +3,13 @@
 
   require 'find'
   require 'fileutils'
-  dir_do_projeto_que_serah_clonado_em_pdf = "/home/sc/Dropbox/workspace/seucondominio"
-  destino_do_clone_pdf = "/home/sc/Downloads/pdf-seucondominio"
+  diretorio_do_projeto = "/home/sc/Dropbox/workspace/seucondominio"
+  diretorio_destino_do_clone_pdf = "/home/sc/Downloads/pdf-seucondominio"
 
 
 
-  Find.find(dir_do_projeto_que_serah_clonado_em_pdf) do |path|
-    pathComCaminhoParaOutraPasta = path.gsub(dir_do_projeto_que_serah_clonado_em_pdf, destino_do_clone_pdf)
+  Find.find(diretorio_do_projeto) do |path|
+    pathComCaminhoParaOutraPasta = path.gsub(diretorio_do_projeto, diretorio_destino_do_clone_pdf)
     if FileTest.directory?(path)
       # cria as pastas
       if File.basename(path)[0] == ?.

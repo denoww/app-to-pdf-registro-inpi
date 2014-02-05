@@ -5,16 +5,16 @@ instalar o enscript no unix (fácil, basta procurar no google)
 
 <h2>Como Usar?</h2>
 
-<h3>Baixe o projeto:</h3>
+<h3>Baixe os arquivos:</h3>
 git clone https://github.com/denoww/app-to-pdf-registro-inpi
 
 
-<h3>Configurar duas variáveis do arquivo "projeto-to-pdf.rb" conforme mostrado abaixo</h3>
+<h3>Dentro do arquivo "projeto-to-pdf.rb" configure essas duas variáveis</h3>
 <div>
-  dir_do_projeto_que_serah_clonado_em_pdf = "/home/sc/Dropbox/workspace/alunos" 
+  diretorio_do_projeto = "/home/sc/Dropbox/workspace/alunos" 
 </div>
 <div>
-  destino_do_clone_pdf = "/home/sc/Downloads/pdf-alunos"
+  diretorio_destino_do_clone_pdf = "/home/sc/Downloads/pdf-alunos"
 </div>
 
 <h3>Depois no terminal unix executar o comando</h3>
