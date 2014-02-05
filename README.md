@@ -1,11 +1,9 @@
-app-to-pdf-registro-inpi
-
 <h1>Transforma qualquer projeto em PDF para registro no INPI</h1>
 
-<h1>Pré requisitos</h1>
+<h2>Pré requisitos</h2>
 instalar o enscript no unix (fácil, basta procurar no google)
 
-<h1>Como Usar?</h1>
+<h2>Como Usar?</h2>
 
 <h3>Baixe o projeto:</h3>
 git clone https://github.com/denoww/app-to-pdf-registro-inpi
@@ -18,7 +16,7 @@ destino_do_clone_pdf = "/home/sc/Downloads/pdf-alunos"
 <h3>Depois no terminal unix executar o comando</h3>
 ruby projeto-to-pdf.rb
 
-<h1>
+<h2>
 	Tudo será transformado em pdf, até mesmo imagens
-</h1>
+</h2>
 
